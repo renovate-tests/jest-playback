@@ -1,4 +1,5 @@
 {
+  "pinVersions": false,
   "lockFileMaintenance": {
     "enabled": true,
     "schedule": []
