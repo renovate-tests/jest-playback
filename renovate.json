@@ -1,3 +1,7 @@
 {
-  "extends": "ikatyang:library"
+  "extends": ":library",
+  "lockFileMaintenance": {
+    "enabled": true,
+    "schedule": []
+  }
 }
