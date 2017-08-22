@@ -2,6 +2,6 @@
   "pinVersions": false,
   "lockFileMaintenance": {
     "enabled": true,
-    "schedule": []
+    "schedule": "on mondays"
   }
 }
